@@ -282,10 +282,7 @@ footer p {
     align-items: center;
     margin: 0;
     flex-grow: 1;
-    max-width: 600px;
     display: flex;
-    max-height: 100%;
-    margin: 50px;
 }
 
   .tinted:hover {
@@ -294,7 +291,6 @@ footer p {
     align-items: center;
     margin: 0;
     flex-grow: 1;
-    justify-content: center;
     max-width: 600px;
     display: flex;
 }
@@ -380,8 +376,6 @@ footer p {
     align-items: center;
     margin: 0;
     flex-grow: 1;
-    justify-content: center;
-    max-width: 420px;
     display: flex;
 }
 
@@ -391,7 +385,6 @@ footer p {
     align-items: center;
     margin: 0;
     flex-grow: 1;
-    justify-content: center;
     max-width: 420px;
     display: flex;
 }
