@@ -276,6 +276,27 @@ footer p {
     background-color: #f7fffe;
   }
 
+    .tinted {
+  justify-content: center;
+    max-height: 100%;
+    align-items: center;
+    margin: 0;
+    flex-grow: 1;
+    justify-content: center;
+    max-width: 600px;
+    display: flex;
+}
+
+  .tinted:hover {
+  justify-content: center;
+    max-height: 100%;
+    align-items: center;
+    margin: 0;
+    flex-grow: 1;
+    justify-content: center;
+    max-width: 600px;
+    display: flex;
+}
   .reverse {
     flex-wrap: wrap-reverse;
   }
@@ -352,6 +373,27 @@ footer p {
     background-color: #f7fffe;
   }
 
+  .tinted {
+  justify-content: center;
+    max-height: 100%;
+    align-items: center;
+    margin: 0;
+    flex-grow: 1;
+    justify-content: center;
+    max-width: 420px;
+    display: flex;
+}
+
+  .tinted:hover {
+  justify-content: center;
+    max-height: 100%;
+    align-items: center;
+    margin: 0;
+    flex-grow: 1;
+    justify-content: center;
+    max-width: 420px;
+    display: flex;
+}
   .reverse {
     flex-wrap: wrap-reverse;
   }
